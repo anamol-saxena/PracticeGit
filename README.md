@@ -1,7 +1,7 @@
 # PracticeGit
 This repo is only for testing github.
 
-# Just learn how to do a create a new branch, make changes and finall to do a pull request
+## Just learn how to do a create a new branch, make changes and finally to do a pull request
 
 Initial configuration
 
