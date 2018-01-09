@@ -13,8 +13,6 @@ Git cheat sheet
 
 ![Cheat sheet](https://camo.githubusercontent.com/1787db25c1d932410779b13030f4754d2378050e/68747470733a2f2f692e726564642e69742f3833343167363867317637792e706e67)
 
-[More](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
 How to be a part of this repo
 
   -  Use [The beginner's guide](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/) to contributing to a GitHub project for detailed steps.
